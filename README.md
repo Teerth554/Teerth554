@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teerth554
-- 👀 I’m interested in 
+- 👀 I’m interested in coding ,development
 - 🌱 I’m currently learning java script
 - 📫 How to reach me teerthmodak@gmail.com
 
